@@ -21,3 +21,6 @@ chromadb
 protobuf==3.20.3
 duckduckgo-search
 yfinance
+langchain_groq
+langchain_experimental
+matplotlib
